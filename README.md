@@ -1,33 +1,44 @@
-### Hi there 👋
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/nx0MDnbVyyTgk/giphy.gif" width="500"/>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=jbreffle&style=flat-square&color=blue" alt=""/>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbreffle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
-Here are some ideas to add:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+See https://github.com/vEnhance/vEnhance for an example profile README.md
+See https://www.sitepoint.com/github-profile-readme/ for suggestions pasted below
 
 Add a gif: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nx0MDnbVyyTgk/giphy.gif" width="500"/>
 </div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" width="500"/>
 </div>
 
-Add social network badges
+Add social network badges:
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,6 +51,27 @@ Add social network badges
   </a>
 </div>
 
+Page view counter:
+<img src="https://komarev.com/ghpvc/?username=jbreffle&style=flat-square&color=blue" alt=""/>
 
+Add banner GIF
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+An about me section, to add to top:
+"
+---
+
+### :man_technologist: About Me :
+
+I am ...
+
+- :telescope: I’m working as ...
+
+- :zap: In my free time, I ...
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+"
 
 -->
