@@ -21,7 +21,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=jbreffle/github-readme-stats&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/jbreffle/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&hide=javascript&exclude_repo=github-readme-stats&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/jbreffle/github-readme-stats)
 
 
 <!--
