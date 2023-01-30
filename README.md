@@ -6,7 +6,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
@@ -18,8 +18,11 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+![jbreffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbreffle&show_icons=true&theme=vision-friendly-dark)
+
 
 [![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/jbreffle/github-readme-stats)
 
