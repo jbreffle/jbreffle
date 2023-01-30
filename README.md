@@ -33,6 +33,12 @@
 [![Top LangsLight](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-dark-mode-only)
 
 
+<!---
+Allows pinning more than 6 repos
+-->
+[![Readme Card]([https://github-readme-stats.vercel.app/api/](https://github-readme-stats-six-delta-37.vercel.app/api/)pin/?username=jbreffle&repo=github-readme-stats)](https://github.com/jbreffle/github-readme-stats)
+
+
 
 <!--
 See https://github.com/vEnhance/vEnhance for an example profile README.md
