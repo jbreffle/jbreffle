@@ -35,8 +35,9 @@
 
 <!---
 Allows pinning more than 6 repos
+This link pins the repo "repo=github-readme-stats"
+[![Readme Card](https://github-readme-stats-six-delta-37.vercel.app/api/pin/?username=jbreffle&repo=github-readme-stats)](https://github.com/jbreffle/github-readme-stats)
 -->
-[![Readme Card]([https://github-readme-stats.vercel.app/api/](https://github-readme-stats-six-delta-37.vercel.app/api/)pin/?username=jbreffle&repo=github-readme-stats)](https://github.com/jbreffle/github-readme-stats)
 
 
 
