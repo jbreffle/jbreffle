@@ -30,8 +30,8 @@
 <!--
 [![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/jbreffle/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/jbreffle/github-readme-stats)
-[![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/jbreffle/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-light-mode-only)
+[![Top LangsLight](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-dark-mode-only)
 
 <!--
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
