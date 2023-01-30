@@ -21,9 +21,11 @@
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
+[![GitHub Streak-Light](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+
 <!--
 ![jbreffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbreffle&count_private=true&show_icons=true&theme=vision-friendly-dark)
-
 ![jbreffle's GitHub stats](https://github-readme-stats-six-delta-37.vercel.app/api?username=jbreffle&count_private=true&show_icons=true&theme=vision-friendly-dark)
 -->
 
@@ -32,11 +34,6 @@
 -->
 [![Top Langs-Dark](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-light-mode-only)
 [![Top LangsLight](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-dark-mode-only)
-
-<!--
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
--->
 
 
 
