@@ -8,16 +8,22 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="80" height="80"/>&nbsp;
-  <img src="./img/bash-original-filled.svg" title="GitHub" **alt="GitHub" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
-  <img src="./img/git-original-wordmark-white.svg" title="GitHub" **alt="GitHub" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="80" height="80"/>&nbsp;
-  <img src="./img/github-original-wordmark-white.svg" title="GitHub" **alt="GitHub" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="80" height="80"/>&nbsp;
+<div>   
+  <img src="./img/originals/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+  <img src="./img/originals/matlab-original.svg" title="MATLAB" alt="MATLAB" width="80" height="80"/>&nbsp;
+  <img src="./img/originals/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="80" height="80"/>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/bash-original-filled.svg">
+    <img src="./img/originals/bash-original.svg" title="bash" alt="bash" width="80" height="80"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/github-original-wordmark-white.svg">
+    <img src="./img/originals/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="80" height="80"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/git-original-wordmark-white.svg">
+    <img src="./img/originals/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+  </picture>
 </div>
 
 
