@@ -32,16 +32,41 @@
 ### :fire: My Stats:
 
 <!--
+Original addtion of stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=vision-friendly-dark)](https://git.io/streak-stats)
 -->
+<!--
+Addition of stats using markdown syntax
 [![GitHub Streak-Light](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak-Dark](http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+-->
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=dark">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jbreffle&theme=default" title="" **alt="" width="" height=""/>
+  </picture>
+</div>
+
 
 <!--
 [![Top Langs](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=github-readme-stats,NNDL-Nielsen,ubuntu-setup&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/jbreffle/github-readme-stats)
 -->
 [![Top Langs-Dark](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-light-mode-only)
 [![Top LangsLight](https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/jbreffle/github-readme-stats#gh-dark-mode-only)
+
+
+<!--
+Two alternative ways of showing top langs, that allow size control
+<a href="https://git.io/streak-stats"> <img src="https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&layout=compact&langs_count=6" width="520" height="200"/></a>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=dark">
+    <img src="https://github-readme-stats-six-delta-37.vercel.app/api/top-langs/?username=jbreffle&exclude_repo=NNDL-Nielsen,ubuntu-setup&layout=compact&langs_count=6&theme=default" title="" **alt="" width="520" height="200"/>
+  </picture>
+</div>
+-->
 
 
 <!---
