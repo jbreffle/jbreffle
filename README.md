@@ -3,12 +3,11 @@
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
 
-I am a computational and systems neuroscientist completing a Ph.D. in Neuroscience under Dr. Paul Miller, in collaboration with Dr. Shantanu Jadhav.
+I am a computational and systems neuroscientist. My dissertation investigated how certain types of random connectivity patterns can produce computationally useful dynamics in recurrent neuronal networks.
 
-My dissertation investigates how certain types of random connectivity patterns can produce computationally useful dynamics in recurrent neuronal networks.
+My primary project focused on developing models of the reactivation of novel experiences in neuronal networks to study hippocampal replay. I also analyzed neural data collected from rodents performing memory-guided tasks to inform and validate my models.
 
-My primary project focuses on developing models of the reactivation of novel experiences in neuronal networks to study hippocampal replay.
-I also analyze neural data collected from rodents performing memory-guided tasks to inform and validate my models.
+I am currently looking to transition to a Data Scientist role in industry.
 
 <!-- Uncomment to display language and tool emojis
 
