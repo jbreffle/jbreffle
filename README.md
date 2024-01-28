@@ -7,8 +7,6 @@ I am a computational and systems neuroscientist. My dissertation investigated ho
 
 My primary project focused on developing models of the reactivation of novel experiences in neuronal networks to study hippocampal replay. I also analyzed neural data collected from rodents performing memory-guided tasks to inform and validate my models.
 
-I am currently looking to transition to a Data Scientist role in industry.
-
 <!-- Uncomment to display language and tool emojis
 
 ---
