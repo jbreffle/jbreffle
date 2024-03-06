@@ -3,9 +3,11 @@
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
 
-I am a computational and systems neuroscientist. My dissertation investigated how certain types of random connectivity patterns can produce computationally useful dynamics in recurrent neuronal networks.
+I am a computational scientist with a background in computational and systems neuroscience. My dissertation investigated how certain types of connectivity patterns can produce computationally useful dynamics in recurrent neural networks.
 
-My primary project focused on developing models of the reactivation of novel experiences in neuronal networks to study hippocampal replay. I also analyzed neural data collected from rodents performing memory-guided tasks to inform and validate my models.
+My primary project focused on developing neural network models of memory replay. I also analyzed neural data collected from rodents performing memory-guided tasks to inform and validate my models.
+
+Having recently completed my Ph.D., I am now looking to transition to a role where I can apply my expertise in machine learning and data analysis to solve complex data-driven challenges in industry.
 
 <!-- Uncomment to display language and tool emojis
 
