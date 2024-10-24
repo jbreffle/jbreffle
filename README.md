@@ -7,7 +7,11 @@ I am a computational scientist with a background in computational and systems ne
 
 My primary project focused on developing neural network models of memory replay. I also analyzed neural data collected from rodents performing memory-guided tasks to inform and validate my models.
 
+<!--
+
 Having recently completed my Ph.D., I am now looking to transition to a role where I can apply my expertise in machine learning and data analysis to solve complex data-driven challenges in industry.
+
+-->
 
 <!-- Uncomment to display language and tool emojis
 
